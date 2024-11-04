@@ -1,4 +1,4 @@
-To create a clear and comprehensive README file for your `Weather-analysis-using-mapreduce` project, you can follow this structure:
+
 
 ---
 
